@@ -1,0 +1,25 @@
+table {
+  border-collapse: collapse;
+}
+
+td{
+  border: 1px solid #ddd;
+  height:30px;
+  width:70px;
+}
+.mar{
+  margin-top: 10px;
+}
+h1{
+display: flex;
+justify-content: space-around;
+}
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
+.white{
+  background-color: white;
+}
